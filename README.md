@@ -142,6 +142,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Fast Sampling-Based UAV Exploration of Unknown 3D Environments with Submodular Information Gain Measure, *Measurement Science and Technology 2026*. [[Paper](https://iopscience.iop.org/article/10.1088/1361-6501/ae324d/pdf)]
 - Active Semantic Mapping of Horticultural Environments Using Gaussian Splatting, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.12122)
 - FARE: Fast-Slow Agentic Robotic Exploration], *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.14681)
+- LESE-GAE: Lightweight Environment Skeletonization and Ellipse-Heuristic Goal-Motivated Autonomous Exploration, *TIE 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11365967)
 
 #### 3.1.2 Multi-robot System
 
