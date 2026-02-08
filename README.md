@@ -143,6 +143,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Active Semantic Mapping of Horticultural Environments Using Gaussian Splatting, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.12122)
 - FARE: Fast-Slow Agentic Robotic Exploration], *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2601.14681)
 - LESE-GAE: Lightweight Environment Skeletonization and Ellipse-Heuristic Goal-Motivated Autonomous Exploration, *TIE 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11365967)
+- An autonomous exploration method based on reinforcement learning under connectivity graph, *Knowledge-Based Systems 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705126002005)
 
 #### 3.1.2 Multi-robot System
 
