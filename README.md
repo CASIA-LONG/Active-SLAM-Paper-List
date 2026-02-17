@@ -259,6 +259,8 @@ Note: two-stages strategies use RL for viewpoint selection and navigation
 - Fast and Scalable Signal Inference for Active Robotic Source Seeking, *IROS 2023*. [[Paper](https://arxiv.org/pdf/2301.02362)]
 - Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.10349)]
 - BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.10363)]
+- XIT: Exploration and Exploitation Informed Trees for Active Gas Distribution Mapping in Unknown Environments, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2602.13739)]
+
 
 ### 4.2 Active Self-localization
 
