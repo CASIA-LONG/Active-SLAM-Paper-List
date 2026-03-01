@@ -145,6 +145,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - LESE-GAE: Lightweight Environment Skeletonization and Ellipse-Heuristic Goal-Motivated Autonomous Exploration, *TIE 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11365967)
 - An autonomous exploration method based on reinforcement learning under connectivity graph, *Knowledge-Based Systems 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705126002005)
 - Efficient Exploration for Quadruped Robots Using Graph Neural Networks With Global Attention, *RAL 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11397167)
+- MCVP: Multi-channel viewpoint planner for efficient exploration and mapping of complex 3D environments, *Biomimetic Intelligence and Robotics 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S2667379726000318)
 
 #### 3.1.2 Multi-robot System
 
